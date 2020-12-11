@@ -64,7 +64,7 @@ for ind=1:Ind
                     end
                 end
                 pi_h=pi_n;
-                ind1=1:N1;
+                ind1=1:N;
                 ind1(pi_h==0)=[];
                 pi_h(pi_h==0)=[];
                 Match1=sparse(ind1,pi_h,1,N,N);
