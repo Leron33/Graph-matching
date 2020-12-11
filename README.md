@@ -1,7 +1,7 @@
 # Graph-matching
 Graph Matching with Partially-Correct Seeds
 
-This repository contains a MATLAB implementation of the graph matching method developed in "Graph Matching with Partially-Correct Seeds" by Liren Yu, Jiaming Xu and Xiaojun Lin.
+This repository contains a MATLAB implementation of the graph matching method developed in "Graph Matching with Partially-Correct Seeds" by Liren Yu, Jiaming Xu and Xiaojun Lin. See the paper at https://arxiv.org/pdf/2004.03816.pdf.
 
 **graphmatch_er** folder contains the code to evaluate the performance comparison with synthetic data and to verify the scaling  results.
 
