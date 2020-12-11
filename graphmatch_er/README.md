@@ -9,4 +9,4 @@ Compare_er.m: code for performance comparison on ER model.
 
 Compare_er_iteration.m: code for performance comparison on ER model with algorithms applied iteratively.
 
-Verifyscaling.m: code for verify the scaling results in the paper.
+Verify_scaling.m: code for verify the scaling results in the paper.
