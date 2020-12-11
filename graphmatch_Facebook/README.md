@@ -1,12 +1,7 @@
-This folder contains the code to evalute the performance of GRAMPA method on matching autonomous system networks. 
+This folder contains the code to compare the performance on matching FaceBook networks.
 
-The Autonomous Systems dataset from the University of Oregon Route Views Project http://www.routeviews.org/routeviews/ 
-can be download at Stanford Network Analysis Project https://snap.stanford.edu/data/Oregon-1.html
-The dataset is also stored as a mat file in subfolder "mat_files".
+The Facebook friendship networks is provided by the paper https://arxiv.org/pdf/1102.2166.pdf. The dataset can be download at http://people.maths.ox.ac.uk/∼porterm/data/facebook100.zip. We use the network from Standford University to conduct the numerical experiment. The network of students and staffs from Standford University is also stored as a mat "Standford3.mat".
 
+sim_Facebook.m: code to compare the performance on a FaceBook network of students and staffs from Standford University. 
 
-auto_sys_dynamics.m: code for comparing the performance of GRAMPA with that of Degree profile method.
-
-matching_robust_spectral.m: code for grampa method
-
-matching_deg_pro.m: code for degree profile method
+MatchHop1: code for Greedy Maximum Weight Matching (GMWM)
