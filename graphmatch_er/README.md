@@ -1,5 +1,5 @@
 This folder contains the code to compare the 2-hop algorithm with the 1-hop algorithm and NoisySeeds algorithm.
-See Section 6.1 and Appendix A in the paper h for details. 
+See Section 6.1 and Appendix A in the paper https://arxiv.org/pdf/2004.03816.pdf for details. 
 
 Renyimodel.m: Generate correlated Erdos-Renyi random graph based on the edge-subsampling model
 
