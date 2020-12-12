@@ -7,7 +7,14 @@ compare_boost.m: code to simulation the matching algorithms on the SHREC’16 da
 
 Please cite the following paper if you use this code for your research:
 
-
+@misc{yu2020graph,
+      title={Graph Matching with Partially-Correct Seeds}, 
+      author={Liren Yu and Jiaming Xu and Xiaojun Lin},
+      year={2020},
+      eprint={2004.03816},
+      archivePrefix={arXiv},
+      primaryClass={cs.DS}
+}
 
 @InProceedings{SHREC16-topology,
 	title = "SHREC’16: Matching of Deformable Shapes with Topological Noise",
